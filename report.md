@@ -10,13 +10,13 @@
 На исправление ошибок 1,5 часа
 
 В результате тестирования выявлен следующий дефект:
-* [Неверный результат сложения переменных int](https://github.com/semenovaNatalya/2_JAVA_1a/issues/1)
+* [Некорректный расчет баланса счета после перевода](https://github.com/semenovaNatalya/2_JAVA_1a/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* позитивный тест-кейс
-* баг-репорт
+* [позитивный тест-кейс](https://docs.google.com/spreadsheets/d/1dO2GoRM_SWov-F1_Nhz0R-z2FVH1UsG6HRkG04wdns0/edit?usp=sharing)
+* [баг-репорт](https://semnaiq20.atlassian.net/jira/software/projects/MT/boards/4/backlog?selectedIssue=MT-1)
 
 
 В качестве тестовых данных использовались [данные Задачи_1 ДЗ_2](https://github.com/netology-code/javaqa-homeworks/tree/master/programming), а именно
